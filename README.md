@@ -18,8 +18,8 @@ This repository contains a Telegram bot built using `aiogram`. The bot allows us
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/RarchikCreation/TG-sender.git
-   cd TG-sender
+   git clone https://github.com/RarchikCreation/TBE-telegram.git
+   cd TBE-telegram
    ```
 
 2. Create a virtual environment (optional but recommended):
