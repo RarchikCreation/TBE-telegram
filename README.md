@@ -37,6 +37,7 @@ This repository contains a Telegram bot built using `aiogram`. The bot allows us
    ```
    TOKEN=your-telegram-bot-token
    CHANNEL_ID=your-channel-id
+   GROUP_ID=your-moderations-group
    ```
 
 ## 📝 Project Description
